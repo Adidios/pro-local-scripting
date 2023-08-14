@@ -5,6 +5,7 @@ Scripting box3 pro code in local
 ## Install
 
 ```bash
+git config --global http.sslVerify false
 git clone https://github.com/bcmRayCrazy-coder/pro-local-scripting.git
 cd pro-local-scripting
 yarn
